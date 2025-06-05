@@ -1,0 +1,19 @@
+{
+  "name": "learn-redis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mysql2": "^3.14.1",
+    "node-cron": "^4.1.0",
+    "nodemon": "^3.1.10",
+    "redis": "^5.5.5"
+  }
+}
